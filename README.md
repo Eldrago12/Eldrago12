@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on cli tool using GO for Github, GKE, GCS management and Network Intrusion Detection system by fine tuning BERT and CNN-LSTM<br>I'm currently looking to collaborate on Linux Kernal bugs, DevOps, Distributed System Development, K8s<br>I'm currently studying GO concurrency,  Transformers, Autoencoder and preparing for AWS DevOps Engineer Professional and CCNA exam<br>Ask me about scalable and robust cloud solutions
+I'm currently working on cli tool for Github, GKE, GCS management and Network Intrusion Detection system by fine tuning BERT and CNN-LSTM<br>I'm currently looking to collaborate on Linux Kernal bugs, DevOps, Distributed System Development, K8s<br>I'm currently studying Concurrency,  Transformers, Autoencoder and preparing for AWS DevOps Engineer Professional and CCNA exam<br>Ask me about scalable and robust cloud solutions
 
 
 ## 🌐 Socials:
