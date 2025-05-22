@@ -12,6 +12,9 @@ I'm currently working on cli tool for Github, GKE, GCS management and Network In
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eldrago12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldrago12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eldrago12&bg_color=1A1B27&color=FFFFFF&line=6E48AA&point=FF5A5F&area=true&hide_border=true" width="100%" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Eldrago12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
